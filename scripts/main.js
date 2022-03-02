@@ -1,5 +1,5 @@
 function read_display_Quote() {
-    //console.log("inside the function")
+    //console.log("inside the function")""
 
     //get into the right collection
     db.collection("quotes").doc("tuesday")
